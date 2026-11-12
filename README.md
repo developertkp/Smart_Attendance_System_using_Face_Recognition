@@ -1,0 +1,2 @@
+# Smart_Attendance_System_using_Face_Recognition
+Developed a system that detects and recognizes faces from a live webcam feed and automatically records attendance with date &amp; time. Stored student records &amp; attendance logs in MySQL &amp; generated a downloadable daily attendance report. Extended my real-time face detection work into an end-to-end application with registration, recognition &amp; reporting
